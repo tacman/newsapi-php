@@ -40,7 +40,7 @@ $newsapi->getTopHeadlines($q, $sources, $country, $category, $page_size, $page);
 
 * $page: Use this to page through the results if the total results found is greater than the page size.
 
-Returns JSON object is successful or throws excpetions if invalid data or unsuccessful request.
+Returns JSON object is successful or throws exceptions if invalid data or unsuccessful request.
 ```
 
 ### Get Everything
